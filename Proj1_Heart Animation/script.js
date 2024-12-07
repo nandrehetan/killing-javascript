@@ -1,0 +1,5 @@
+// alert('i am god')
+console.log('hello friends')
+console.log('hello'+' '+2345)
+console.warn('Error aala ahe website madhe')
+console.error('Error aala')
